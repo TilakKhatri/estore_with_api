@@ -2,11 +2,11 @@
 Created ecommerce website with API.
 futher document will soon.
 ## Remaining functionalites
-1- Login using api
-2- Register ""
-3- Search products
-4- Cart
-5- Payment
+- Login using api
+- Register ""
+- Search products
+- Cart
+- Payment
 ```
 If you want to contribute feel free to contact me.
 ```
