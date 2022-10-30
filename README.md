@@ -21,7 +21,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/TilakKhatri/movies-zone.git
+$ git clone https://github.com/TilakKhatri/estore_with_api.git
 
 # Go into the repository
 $ cd movies-zone
